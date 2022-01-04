@@ -1,0 +1,14 @@
+{
+  "name": "easy-archiver",
+  "version": "1.0.0",
+  "description": "A wrapper aimed to use archiver easily and quickly. ",
+  "main": "src/index.js",
+  "author": "https://github.com/mz921",
+  "license": "MIT",
+  "peerDependencies": {
+    "archiver": "^5.3.0"
+  },
+  "dependencies": {
+    "is-glob": "^4.0.3"
+  }
+}
